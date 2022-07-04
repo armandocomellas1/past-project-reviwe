@@ -2,14 +2,14 @@
 
 # Project Name
 
-> Portfolio: mobile version.
+> Review one of your past projects
 
 
 ## Built With
 
 - HTML5
 - CSS
-- Flexbox and CSS Grid in order to make a structure in the html and look nice.
+- Flexbox 
 
 ## Getting Started
 
@@ -17,7 +17,8 @@
 
 **This is an example of how you may give instructions on setting up your project locally.**
 
-This is about a mobile version application, there is two parts so far, header and section in the middle wich l show works and about me.
+This project was created as a admin trials pre course required. mainly the purpose is to give a code review by the code owner,
+and the main purpose is to make better changes and a complete code review for my own project.
 
 ## Authors
 
@@ -40,6 +41,7 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - Passion in coding
+- Motivation
 
 ## 📝 License
 
