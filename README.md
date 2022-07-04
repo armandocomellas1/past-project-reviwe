@@ -17,7 +17,8 @@
 
 **This is an example of how you may give instructions on setting up your project locally.**
 
-This project was created as a admin trials pre course required. mainly the purpose is to give a code review by the code owner.
+This project was created as a admin trials pre course required. mainly the purpose is to give a code review by the code owner,
+and the main purpose is to make better changes and a complete code review for my own project.
 
 ## Authors
 
